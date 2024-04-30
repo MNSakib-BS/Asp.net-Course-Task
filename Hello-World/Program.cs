@@ -8,8 +8,9 @@ namespace Hello_World
             var number = 2;
             var number2 = 30.00;
             var number3 = 20.73f;
-            Console.WriteLine("Hello, World!"+ number);
-            Console.WriteLine("{0} {1}",byte.MinValue,byte.MaxValue);
+            Console.WriteLine("Hello, World!" + number);
+            Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+            
         }
     }
 }
