@@ -5,7 +5,13 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello-World", "Hello-World\Hello-World.csproj", "{0E7661E6-F60C-4884-8CA9-069A1E07C894}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Non-Primitive Types", "4. Non-Primitive Types\4. Non-Primitive Types.csproj", "{B40E70F9-CB4A-416A-A696-5DC3F8F20D6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Non-Primitive Types", "4. Non-Primitive Types\4. Non-Primitive Types.csproj", "{B40E70F9-CB4A-416A-A696-5DC3F8F20D6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2", "Day2\Day2.csproj", "{0B2CCD10-302C-4A1C-817D-8349123B1154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with TText", "Working with TText\Working with TText.csproj", "{7828F2CE-B9DC-42D9-A137-B1677CA55C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "working with file", "working with file\working with file.csproj", "{AB02189E-89CB-4312-836A-C74014F683F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{B40E70F9-CB4A-416A-A696-5DC3F8F20D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B40E70F9-CB4A-416A-A696-5DC3F8F20D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B40E70F9-CB4A-416A-A696-5DC3F8F20D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2CCD10-302C-4A1C-817D-8349123B1154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2CCD10-302C-4A1C-817D-8349123B1154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2CCD10-302C-4A1C-817D-8349123B1154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2CCD10-302C-4A1C-817D-8349123B1154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7828F2CE-B9DC-42D9-A137-B1677CA55C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7828F2CE-B9DC-42D9-A137-B1677CA55C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7828F2CE-B9DC-42D9-A137-B1677CA55C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7828F2CE-B9DC-42D9-A137-B1677CA55C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB02189E-89CB-4312-836A-C74014F683F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB02189E-89CB-4312-836A-C74014F683F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB02189E-89CB-4312-836A-C74014F683F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB02189E-89CB-4312-836A-C74014F683F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

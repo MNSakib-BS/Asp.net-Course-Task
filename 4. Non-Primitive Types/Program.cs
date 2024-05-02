@@ -21,7 +21,7 @@ namespace _4._Non_Primitive_Types
             Calculator calculator = new Calculator();
             calculator.Calc(10, 5);
             var text = @"Software 
- eng  
+eng  
 traine";
             Console.WriteLine(text);
 
